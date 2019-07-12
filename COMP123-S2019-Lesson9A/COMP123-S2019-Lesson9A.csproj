@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0C6BF106-3040-4C61-81F3-47507B71B1DD}</ProjectGuid>
+    <ProjectGuid>{55479A39-0732-4A49-9065-557F7F3D1A69}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>COMP123_S2019_Lesson9A</RootNamespace>
     <AssemblyName>COMP123-S2019-Lesson9A</AssemblyName>
@@ -46,16 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Lesson9Form.cs">
+    <Compile Include="CalculatorForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Lesson9Form.Designer.cs">
-      <DependentUpon>Lesson9Form.cs</DependentUpon>
+    <Compile Include="CalculatorForm.Designer.cs">
+      <DependentUpon>CalculatorForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Lesson9Form.resx">
-      <DependentUpon>Lesson9Form.cs</DependentUpon>
+    <EmbeddedResource Include="CalculatorForm.resx">
+      <DependentUpon>CalculatorForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +79,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backbutton.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

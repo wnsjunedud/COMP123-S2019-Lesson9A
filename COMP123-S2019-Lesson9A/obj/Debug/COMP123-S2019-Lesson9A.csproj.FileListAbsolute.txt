@@ -1,0 +1,10 @@
+C:\Users\301043697\Downloads\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A\bin\Debug\COMP123-S2019-Lesson9A.exe.config
+C:\Users\301043697\Downloads\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A\bin\Debug\COMP123-S2019-Lesson9A.exe
+C:\Users\301043697\Downloads\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A\bin\Debug\COMP123-S2019-Lesson9A.pdb
+C:\Users\301043697\Downloads\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A\obj\Debug\COMP123-S2019-Lesson9A.csprojResolveAssemblyReference.cache
+C:\Users\301043697\Downloads\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A\obj\Debug\COMP123_S2019_Lesson9A.CalculatorForm.resources
+C:\Users\301043697\Downloads\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A\obj\Debug\COMP123_S2019_Lesson9A.Properties.Resources.resources
+C:\Users\301043697\Downloads\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A\obj\Debug\COMP123-S2019-Lesson9A.csproj.GenerateResource.cache
+C:\Users\301043697\Downloads\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A\obj\Debug\COMP123-S2019-Lesson9A.csproj.CoreCompileInputs.cache
+C:\Users\301043697\Downloads\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A\obj\Debug\COMP123-S2019-Lesson9A.exe
+C:\Users\301043697\Downloads\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A-master\COMP123-S2019-Lesson9A\obj\Debug\COMP123-S2019-Lesson9A.pdb
